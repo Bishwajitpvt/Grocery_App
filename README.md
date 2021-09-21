@@ -2,7 +2,7 @@
 
 # Output
 
-<p float="left">
+<p float="center">
   <img src="https://user-images.githubusercontent.com/77453811/134190996-d0c6432d-7146-499e-a936-bedaf0a2d4f8.jpeg" width="300" />
   <img src="https://user-images.githubusercontent.com/77453811/134191001-bdbdd8fb-d871-4adc-8db9-9efb2e2d20b2.jpeg" width="300" /> 
 </p>
